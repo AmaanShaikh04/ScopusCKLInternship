@@ -1,0 +1,508 @@
+source,target,weight
+educational technology,sensor technologies,3
+educational technology,educational settings,2
+educational technology,learning analytic,2
+educational technology,learning analytics,2
+educational technology,learning experiences,2
+educational technology,sensors data,2
+educational technology,teaching and learning,2
+educational technology,wearable sensors,2
+sensor technologies,educational settings,2
+sensor technologies,learning analytic,2
+sensor technologies,learning analytics,2
+sensor technologies,learning experiences,2
+sensor technologies,sensors data,2
+sensor technologies,teaching and learning,2
+sensor technologies,wearable sensors,2
+artificial intelligence,machine learning,3
+artificial intelligence,review,2
+artificial intelligence,software,2
+artificial intelligence,systematic review,2
+artificial intelligence,wearable devices,2
+artificial intelligence,information processing,2
+artificial intelligence,mental health,2
+artificial intelligence,"mesh
+algorithms",2
+machine learning,wearable devices,3
+machine learning,conceptual framework,2
+machine learning,content richness,2
+machine learning,adult,2
+machine learning,deep learning,2
+machine learning,effectiveness,2
+machine learning,female,2
+machine learning,"emtree medical terms
+access to information",2
+machine learning,health care,2
+machine learning,importance performance map analysis,2
+machine learning,information processing,2
+machine learning,learning systems,2
+machine learning,male,2
+machine learning,medical record,2
+machine learning,mental health,2
+machine learning,"mesh
+algorithms",2
+machine learning,normal human,2
+machine learning,nurse,2
+machine learning,partial least squares regression,2
+machine learning,personal innovativeness,2
+machine learning,physician,2
+machine learning,prediction,2
+machine learning,review,2
+machine learning,smart watches,2
+machine learning,software,2
+machine learning,structural equation modeling,2
+learning environments,learning systems,3
+learning environments,"engineering controlled terms
+computer aided instruction",2
+learning environments,monitoring,2
+learning systems,electroencephalography,2
+learning systems,deep learning,2
+learning systems,"engineering controlled terms
+computer aided instruction",2
+learning systems,monitoring,2
+wearable devices,deep learning,2
+wearable devices,health care,2
+wearable devices,information processing,2
+wearable devices,mental health,2
+wearable devices,review,2
+wearable devices,systematic review,2
+physiological signals,physiology,3
+physiological signals,real- time,3
+physiological signals,emotion recognition,2
+physiological signals,daily lives,2
+physiological signals,"engineering controlled terms
+behavioral research",2
+physiological signals,cross-species pretraining,2
+physiological signals,individual differences,2
+physiological signals,knowledge management,2
+physiological signals,knowledge transfer,2
+physiological signals,mammals,2
+physiological signals,forecasting,2
+physiological signals,pre-training,2
+physiological signals,"psychology computing
+
+engineering uncontrolled terms
+cross-species",2
+physiological signals,systematic review,2
+physiological signals,teaching/learning strategy,2
+physiological signals,transfer learning,2
+physiological signals,"wearable devices
+
+engineering main heading
+wearable sensors",2
+physiological signals,wearable sensors,2
+physiology,real- time,3
+physiology,emotion recognition,2
+physiology,daily lives,2
+physiology,"engineering controlled terms
+behavioral research",2
+physiology,cross-species pretraining,2
+physiology,individual differences,2
+physiology,knowledge management,2
+physiology,knowledge transfer,2
+physiology,mammals,2
+physiology,forecasting,2
+physiology,pre-training,2
+physiology,"psychology computing
+
+engineering uncontrolled terms
+cross-species",2
+physiology,transfer learning,2
+physiology,"wearable devices
+
+engineering main heading
+wearable sensors",2
+physiology,wearable sensors,2
+real- time,daily lives,2
+real- time,emotion recognition,2
+real- time,forecasting,2
+real- time,"engineering controlled terms
+behavioral research",2
+real- time,cross-species pretraining,2
+real- time,individual differences,2
+real- time,knowledge management,2
+real- time,knowledge transfer,2
+real- time,mammals,2
+real- time,pre-training,2
+real- time,"psychology computing
+
+engineering uncontrolled terms
+cross-species",2
+real- time,transfer learning,2
+real- time,"wearable devices
+
+engineering main heading
+wearable sensors",2
+real- time,wearable sensors,2
+teaching and learning,wearable sensors,3
+teaching and learning,learning analytics,2
+teaching and learning,educational settings,2
+teaching and learning,learning analytic,2
+teaching and learning,learning experiences,2
+teaching and learning,sensors data,2
+wearable sensors,"wearable devices
+
+engineering main heading
+wearable sensors",2
+wearable sensors,daily lives,2
+wearable sensors,emotion recognition,2
+wearable sensors,forecasting,2
+wearable sensors,educational settings,2
+wearable sensors,"engineering controlled terms
+behavioral research",2
+wearable sensors,cross-species pretraining,2
+wearable sensors,individual differences,2
+wearable sensors,knowledge management,2
+wearable sensors,knowledge transfer,2
+wearable sensors,learning analytic,2
+wearable sensors,learning analytics,2
+wearable sensors,learning experiences,2
+wearable sensors,mammals,2
+wearable sensors,pre-training,2
+wearable sensors,"psychology computing
+
+engineering uncontrolled terms
+cross-species",2
+wearable sensors,sensors data,2
+wearable sensors,transfer learning,2
+emotion recognition,"engineering controlled terms
+behavioral research",2
+emotion recognition,forecasting,2
+emotion recognition,individual differences,2
+emotion recognition,knowledge management,2
+emotion recognition,knowledge transfer,2
+emotion recognition,mammals,2
+emotion recognition,pre-training,2
+emotion recognition,"psychology computing
+
+engineering uncontrolled terms
+cross-species",2
+emotion recognition,daily lives,2
+emotion recognition,transfer learning,2
+emotion recognition,"wearable devices
+
+engineering main heading
+wearable sensors",2
+emotion recognition,cross-species pretraining,2
+"engineering controlled terms
+behavioral research",daily lives,2
+"engineering controlled terms
+behavioral research",forecasting,2
+"engineering controlled terms
+behavioral research",individual differences,2
+"engineering controlled terms
+behavioral research",knowledge management,2
+"engineering controlled terms
+behavioral research",knowledge transfer,2
+"engineering controlled terms
+behavioral research",mammals,2
+"engineering controlled terms
+behavioral research",pre-training,2
+"engineering controlled terms
+behavioral research","psychology computing
+
+engineering uncontrolled terms
+cross-species",2
+"engineering controlled terms
+behavioral research",transfer learning,2
+"engineering controlled terms
+behavioral research","wearable devices
+
+engineering main heading
+wearable sensors",2
+"engineering controlled terms
+behavioral research",cross-species pretraining,2
+forecasting,daily lives,2
+forecasting,"psychology computing
+
+engineering uncontrolled terms
+cross-species",2
+forecasting,transfer learning,2
+forecasting,"wearable devices
+
+engineering main heading
+wearable sensors",2
+forecasting,individual differences,2
+forecasting,knowledge management,2
+forecasting,knowledge transfer,2
+forecasting,mammals,2
+forecasting,cross-species pretraining,2
+forecasting,pre-training,2
+individual differences,daily lives,2
+individual differences,cross-species pretraining,2
+individual differences,knowledge management,2
+individual differences,knowledge transfer,2
+individual differences,mammals,2
+individual differences,pre-training,2
+individual differences,"psychology computing
+
+engineering uncontrolled terms
+cross-species",2
+individual differences,transfer learning,2
+individual differences,"wearable devices
+
+engineering main heading
+wearable sensors",2
+learning analytics,educational settings,2
+learning analytics,learning analytic,2
+learning analytics,learning experiences,2
+learning analytics,sensors data,2
+learning analytics,systematic review,2
+review,information processing,2
+review,mental health,2
+review,physiological stress,2
+review,wearables,2
+knowledge management,daily lives,2
+knowledge management,cross-species pretraining,2
+knowledge management,knowledge transfer,2
+knowledge management,mammals,2
+knowledge management,pre-training,2
+knowledge management,"psychology computing
+
+engineering uncontrolled terms
+cross-species",2
+knowledge management,transfer learning,2
+knowledge management,"wearable devices
+
+engineering main heading
+wearable sensors",2
+knowledge transfer,daily lives,2
+knowledge transfer,cross-species pretraining,2
+knowledge transfer,mammals,2
+knowledge transfer,pre-training,2
+knowledge transfer,"psychology computing
+
+engineering uncontrolled terms
+cross-species",2
+knowledge transfer,transfer learning,2
+knowledge transfer,"wearable devices
+
+engineering main heading
+wearable sensors",2
+mammals,daily lives,2
+mammals,cross-species pretraining,2
+mammals,pre-training,2
+mammals,"psychology computing
+
+engineering uncontrolled terms
+cross-species",2
+mammals,transfer learning,2
+mammals,"wearable devices
+
+engineering main heading
+wearable sensors",2
+educational settings,learning analytic,2
+educational settings,learning experiences,2
+educational settings,sensors data,2
+pre-training,daily lives,2
+pre-training,cross-species pretraining,2
+pre-training,"psychology computing
+
+engineering uncontrolled terms
+cross-species",2
+pre-training,transfer learning,2
+pre-training,"wearable devices
+
+engineering main heading
+wearable sensors",2
+"psychology computing
+
+engineering uncontrolled terms
+cross-species",daily lives,2
+"psychology computing
+
+engineering uncontrolled terms
+cross-species",cross-species pretraining,2
+"psychology computing
+
+engineering uncontrolled terms
+cross-species",transfer learning,2
+"psychology computing
+
+engineering uncontrolled terms
+cross-species","wearable devices
+
+engineering main heading
+wearable sensors",2
+adult,"emtree medical terms
+access to information",2
+adult,conceptual framework,2
+adult,content richness,2
+adult,effectiveness,2
+adult,female,2
+adult,importance performance map analysis,2
+adult,male,2
+adult,medical record,2
+adult,normal human,2
+adult,nurse,2
+adult,partial least squares regression,2
+adult,personal innovativeness,2
+adult,physician,2
+adult,prediction,2
+adult,smart watches,2
+adult,structural equation modeling,2
+"emtree medical terms
+access to information",conceptual framework,2
+"emtree medical terms
+access to information",content richness,2
+"emtree medical terms
+access to information",effectiveness,2
+"emtree medical terms
+access to information",female,2
+"emtree medical terms
+access to information",importance performance map analysis,2
+"emtree medical terms
+access to information",male,2
+"emtree medical terms
+access to information",medical record,2
+"emtree medical terms
+access to information",normal human,2
+"emtree medical terms
+access to information",nurse,2
+"emtree medical terms
+access to information",partial least squares regression,2
+"emtree medical terms
+access to information",personal innovativeness,2
+"emtree medical terms
+access to information",physician,2
+"emtree medical terms
+access to information",prediction,2
+"emtree medical terms
+access to information",smart watches,2
+"emtree medical terms
+access to information",structural equation modeling,2
+daily lives,transfer learning,2
+daily lives,"wearable devices
+
+engineering main heading
+wearable sensors",2
+daily lives,cross-species pretraining,2
+"wearable devices
+
+engineering main heading
+wearable sensors",cross-species pretraining,2
+"wearable devices
+
+engineering main heading
+wearable sensors",transfer learning,2
+conceptual framework,content richness,2
+conceptual framework,effectiveness,2
+conceptual framework,female,2
+conceptual framework,importance performance map analysis,2
+conceptual framework,male,2
+conceptual framework,medical record,2
+conceptual framework,normal human,2
+conceptual framework,nurse,2
+conceptual framework,partial least squares regression,2
+conceptual framework,personal innovativeness,2
+conceptual framework,physician,2
+conceptual framework,prediction,2
+conceptual framework,smart watches,2
+conceptual framework,structural equation modeling,2
+content richness,effectiveness,2
+content richness,female,2
+content richness,importance performance map analysis,2
+content richness,male,2
+content richness,medical record,2
+content richness,normal human,2
+content richness,nurse,2
+content richness,partial least squares regression,2
+content richness,personal innovativeness,2
+content richness,physician,2
+content richness,prediction,2
+content richness,smart watches,2
+content richness,structural equation modeling,2
+effectiveness,female,2
+effectiveness,importance performance map analysis,2
+effectiveness,male,2
+effectiveness,medical record,2
+effectiveness,normal human,2
+effectiveness,nurse,2
+effectiveness,partial least squares regression,2
+effectiveness,personal innovativeness,2
+effectiveness,physician,2
+effectiveness,prediction,2
+effectiveness,smart watches,2
+effectiveness,structural equation modeling,2
+female,importance performance map analysis,2
+female,male,2
+female,medical record,2
+female,normal human,2
+female,nurse,2
+female,partial least squares regression,2
+female,personal innovativeness,2
+female,physician,2
+female,prediction,2
+female,smart watches,2
+female,structural equation modeling,2
+importance performance map analysis,male,2
+importance performance map analysis,medical record,2
+importance performance map analysis,normal human,2
+importance performance map analysis,nurse,2
+importance performance map analysis,partial least squares regression,2
+importance performance map analysis,personal innovativeness,2
+importance performance map analysis,physician,2
+importance performance map analysis,prediction,2
+importance performance map analysis,smart watches,2
+importance performance map analysis,structural equation modeling,2
+male,medical record,2
+male,normal human,2
+male,nurse,2
+male,partial least squares regression,2
+male,personal innovativeness,2
+male,physician,2
+male,prediction,2
+male,smart watches,2
+male,structural equation modeling,2
+medical record,normal human,2
+medical record,nurse,2
+medical record,partial least squares regression,2
+medical record,personal innovativeness,2
+medical record,physician,2
+medical record,prediction,2
+medical record,smart watches,2
+medical record,structural equation modeling,2
+normal human,nurse,2
+normal human,partial least squares regression,2
+normal human,personal innovativeness,2
+normal human,physician,2
+normal human,prediction,2
+normal human,smart watches,2
+normal human,structural equation modeling,2
+nurse,partial least squares regression,2
+nurse,personal innovativeness,2
+nurse,physician,2
+nurse,prediction,2
+nurse,smart watches,2
+nurse,structural equation modeling,2
+partial least squares regression,personal innovativeness,2
+partial least squares regression,physician,2
+partial least squares regression,prediction,2
+partial least squares regression,smart watches,2
+partial least squares regression,structural equation modeling,2
+personal innovativeness,physician,2
+personal innovativeness,prediction,2
+personal innovativeness,smart watches,2
+personal innovativeness,structural equation modeling,2
+physician,prediction,2
+physician,smart watches,2
+physician,structural equation modeling,2
+prediction,smart watches,2
+prediction,structural equation modeling,2
+smart watches,structural equation modeling,2
+transfer learning,cross-species pretraining,2
+deep learning,health care,2
+learning analytic,learning experiences,2
+learning analytic,sensors data,2
+learning experiences,sensors data,2
+education computing,engineering education,2
+information processing,mental health,2
+physiological models,wearables,2
+physiological models,"wearables
+
+engineering main heading
+wearable technology",2
+wearables,"wearables
+
+engineering main heading
+wearable technology",2
