@@ -53,28 +53,27 @@ First, install dependencies:
 pip install -r requirements.txt
 
 ### Run Phase 1 scripts:
-python scopus_bibliometric_overview.py
-python exploratory_bibliometric_checks.py
+1. python scopus_bibliometric_overview.py
+2. python exploratory_bibliometric_checks.py
 
 ### Run Phase 2 scripts:
-python build_keyword_cooccurrence_network.py
-python visualize_keyword_network.py
-python extract_keyword_clusters.py
+1. python build_keyword_cooccurrence_network.py
+2. python visualize_keyword_network.py
+3. python extract_keyword_clusters.py
 
 ### Run Phase 3 scripts:
-python author_affiliation_extraction_test.py
-python author_network_interactive.py
-python organization_network_interactive.py
+1. python author_affiliation_extraction_test.py
+2. python author_network_interactive.py
+3. python organization_network_interactive.py
 
 
 ## Data Files Required
 Place these files in the / directory:
-285scopus_wearables_ai_education_corpus.csv (Scopus extracted papers)
-manual_seed_papers_keywords.csv (Manually scraped papers with keywords)
+1. 285scopus_wearables_ai_education_corpus.csv (Scopus extracted papers)
+2. manual_seed_papers_keywords.csv (Manually scraped papers with keywords)
 
 ## Output
 Results will be generated in:
-
 1. Console outputs for statistical summaries
 2. analysis_results/ folder for visualizations
 3. Interactive windows for network visualizations
