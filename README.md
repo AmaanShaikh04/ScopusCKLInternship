@@ -80,3 +80,5 @@ Results will be generated in:
 3. Interactive windows for network visualizations
 
 Note: Some scripts open interactive matplotlib windows. Allow pop-ups if running in certain IDEs or environments.
+
+### For questions or continuation of this work, please refer to the repository structure and scripts above. This project is designed to be extensible for future research in bibliometric analysis.
